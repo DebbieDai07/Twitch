@@ -36,5 +36,8 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "https://igu28nfzwq.us-east-2.awsapprunner.com"
+  "proxy": "https://igu28nfzwq.us-east-2.awsapprunner.com",
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
+  }
 }
