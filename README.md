@@ -9,20 +9,20 @@ Check out the deployed version of the app here: [Twitch Recommendation Engine](h
 
 ## Tech Stack
 
-### Front-End:
+#### Front-End:
 - **React.js**: For building the interactive user interface.
 - **Ant Design**: For creating a rich and user-friendly experience.
 
-### Back-End:
+#### Back-End:
 - **Spring Boot**: For building a full-stack application and RESTful API services.
 - **Spring Data JDBC**: For performing CRUD operations on the MySQL database.
 - **Caffeine**: For implementing caching to improve performance.
 
-### Database:
+#### Database:
 - **MySQL**: For storing user data and Twitch resource information.
 - **AWS RDS**: For hosting the MySQL database.
 
-### Other Tools:
+#### Other Tools:
 - **Twitch API**: For retrieving Twitch resources like streams, videos, and clips via OpenFeign.
 - **AWS App Runner**: For containerizing and deploying the application.
 - **Spring Boot Caching**: For optimized data retrieval and response times.
