@@ -5,6 +5,8 @@ A Full-Stack application that recommends Twitch resources (streams, videos, etc.
 Check out the deployed version of the app here: [Twitch Recommendation Engine](https://igu28nfzwq.us-east-2.awsapprunner.com/)
 
 
+
+
 ## Tech Stack
 
 ### Front-End:
@@ -33,12 +35,14 @@ To run this project locally, navigate to the front-end directory:
 ```
 cd twitchfe
 ```
-install the dependencies:
+Install the dependencies:
 ```
 npm install
 ```
-run the app:
+Run the app:
 ```
 npm start
 ```
+
+
 
